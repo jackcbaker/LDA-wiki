@@ -1,5 +1,5 @@
 # LDA-wiki
-Scrape wikipedia for random articles and clean, tokenize and stem document for LDA.
+Scrape wikipedia for random articles and clean, tokenize and stem document for Latent Dirichlet Allocation.
 
     def fetch_random( n, dump_path ):
 
